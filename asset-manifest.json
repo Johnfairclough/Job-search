@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/job-search/static/css/main.f5055963.chunk.css",
-    "main.js": "/job-search/static/js/main.7bcae503.chunk.js",
-    "main.js.map": "/job-search/static/js/main.7bcae503.chunk.js.map",
+    "main.js": "/job-search/static/js/main.a92cbcdb.chunk.js",
+    "main.js.map": "/job-search/static/js/main.a92cbcdb.chunk.js.map",
     "runtime-main.js": "/job-search/static/js/runtime-main.214efbc8.js",
     "runtime-main.js.map": "/job-search/static/js/runtime-main.214efbc8.js.map",
     "static/js/2.ba250bb1.chunk.js": "/job-search/static/js/2.ba250bb1.chunk.js",
     "static/js/2.ba250bb1.chunk.js.map": "/job-search/static/js/2.ba250bb1.chunk.js.map",
     "index.html": "/job-search/index.html",
-    "precache-manifest.cac1a19567456890ed3df994c7fdcdd1.js": "/job-search/precache-manifest.cac1a19567456890ed3df994c7fdcdd1.js",
+    "precache-manifest.6ff70f02408f591f666f7f4eb6fac57d.js": "/job-search/precache-manifest.6ff70f02408f591f666f7f4eb6fac57d.js",
     "service-worker.js": "/job-search/service-worker.js",
     "static/css/main.f5055963.chunk.css.map": "/job-search/static/css/main.f5055963.chunk.css.map",
     "static/js/2.ba250bb1.chunk.js.LICENSE.txt": "/job-search/static/js/2.ba250bb1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.214efbc8.js",
     "static/js/2.ba250bb1.chunk.js",
     "static/css/main.f5055963.chunk.css",
-    "static/js/main.7bcae503.chunk.js"
+    "static/js/main.a92cbcdb.chunk.js"
   ]
 }
